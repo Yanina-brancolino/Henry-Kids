@@ -11,8 +11,10 @@ Node JS | JavaScript | PostgresSQL | SQL | Docker | SendGrid | Heroku
 
 Utilizamos la metodologia de SCRUM, junto con JIRA, e implementamos la arquitectura REST, para una mejor organizacion de las APIs.
 
-Presentacion del Proyecto ===>
+Presentacion del Proyecto Guia Inicial en PDF ===>
 [Henry Kids - PG -.pdf](https://github.com/Yanina-brancolino/Henry-Kids/files/9085362/Henry.Kids.-.PG.-.pdf)
+
+Presentacion del Proyecto Finalizado en VIDEO ===> https://www.youtube.com/watch?v=FpTWR8ZcKKo&t=38s
 
 
 # ¿Por qué Henry Kids?
