@@ -2,7 +2,14 @@
 
 
 # Henry-Kids
-Proyecto final GRUPO-8 
+Proyecto final GRUPO-8 ===>
+Participación en un proyecto ágil con sprints de una semana, presentando a un Product Owner el progreso en el desarrollo de la app, en la cual los niños pueden aprender programación, por medio de cursos, actividades y juegos, acompañados por un profesor.
+Manejamos dos tipos de Usuarios (Alumno, Profesor), usamos SendGrid para el envio de mails ( Bienvenida, Verificacion del email, Solicitud para ser Profesor ), manejamos un formulario de registro controlado, tambien pueden registrarse e ingresar mediante google.
+
+Herramientas utilizadas:
+Node JS | JavaScript | PostgresSQL | SQL | Docker | SendGrid | Heroku
+
+Utilizamos la metodologia de SCRUM, junto con JIRA, e implementamos la arquitectura REST, para una mejor organizacion de las APIs.
 
 Presentacion del Proyecto ===>
 [Henry Kids - PG -.pdf](https://github.com/Yanina-brancolino/Henry-Kids/files/9085362/Henry.Kids.-.PG.-.pdf)
